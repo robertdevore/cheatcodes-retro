@@ -57,37 +57,13 @@ a:focus-visible,button:focus-visible,input:focus-visible {
   top:5px;
   width:752px;
   height:150px}
-.header-pipe {
-  position:absolute;
-  left:28px;
-  top:55px;
-  width:180px;
-  height:50px;
-  background:var(--chrome);
-  border:4px ridge #aab6ce;
-  border-radius:0 0 0 20px;
-  box-shadow:0 6px 4px #111629}
-.header-pipe:after {
-  content:"";
-  position:absolute;
-  left:39px;
-  top:35px;
-  width:38px;
-  height:70px;
-  background:linear-gradient(90deg,#212b47,#8492b0,#414c6d);
-  border:4px ridge #8795b5;
-  border-radius:0 0 7px 7px}
-.brand {
-  position:absolute;z-index:3;left:0;top:0;width:273px;height:65px;
-  border:2px solid #74839f;border-radius:43px 22px 21px 39px;
-  background:linear-gradient(173deg,#a3afc8 0%,#e0e5f0 5%,#7885a5 9%,#222b45 14%,#4e5977 22%,#222a43 28%,#1b223a 67%,#52617e 73%,#aebbd0 77%,#26304d 84%,#141c32 91%);
-  box-shadow:0 3px 3px #0c1123,inset 0 0 0 2px #283450,inset 2px 2px 0 4px #c5cede;
-  text-decoration:none}
+.masthead-metal {position:absolute;left:-3px;top:-3px;width:282px;height:166px;z-index:2;filter:drop-shadow(1px 3px 2px #101526)}
+.brand {position:absolute;z-index:3;left:0;top:0;width:267px;height:57px;text-decoration:none}
 .brand h1 {
-  margin:10px 13px 0 21px;font:400 30px/32px Gruppo,monospace;
+  margin:9px 13px 0 22px;font:400 30px/32px Gruppo,monospace;
   letter-spacing:-.6px;color:#b9c9f2;white-space:nowrap;
   text-shadow:0 1px #1a2340,0 0 3px #8c9ecf;
-  border-bottom:1px solid #7c8fbc}
+  border-bottom:0}
 .banner {
   position:absolute;
   left:268px;
@@ -102,24 +78,23 @@ a:focus-visible,button:focus-visible,input:focus-visible {
 .banner svg {
   overflow:hidden;
   border:1px solid #05080f}
-.emblem {
-  position:absolute;z-index:4;left:146px;top:42px;width:132px;height:112px;
-  border:0;background:none;filter:drop-shadow(0 4px 2px #101527)}
+
 
 .binary {
   font:8px/10px monospace;
   letter-spacing:1px;
-  color:#adbeef;
+  color:#465397;
   overflow:hidden;
   white-space:nowrap;
-  text-shadow:0 1px #11172e}
+  text-shadow:0 1px #11172e,0 0 1px #6973b4}
 .header-binary {
   position:absolute;
   top:102px;
   left:270px;
   width:471px;
   height:14px;
-  border-bottom:4px ridge #7c8aa8;
+  background:linear-gradient(#141b31,#202845 70%,#151d34);
+  border-bottom:3px ridge #7787aa;
   box-shadow:0 4px 3px #111628}
 
 .sidebar {
