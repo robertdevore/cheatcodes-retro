@@ -4,7 +4,7 @@ A demo recreation of the CheatCodes.com homepage from 2001, built with [Kujo SSG
 
 Chrome buttons. Console logos. A sunset over the pier. This project brings a piece of early gaming web design back to the browser, with readable mobile layouts, keyboard-friendly dialogs, and a fast static build.
 
-**[Visit the live demo](https://cheatcodes.robertdevore.com/) · [Explore Kujo](https://github.com/kujolang) · [View the PageSpeed report](https://pagespeed.web.dev/analysis/https-cheatcodes-robertdevore-com/vog71rnqv7)**
+**[Visit the live demo](https://cheatcodes.robertdevore.com/) · [Explore Kujo](https://github.com/kujolang) · [View the PageSpeed report](https://pagespeed.web.dev/analysis/https-cheatcodes-robertdevore-com/eeypj4sj3p)**
 
 [![The recreated CheatCodes.com homepage, with its metallic navigation, console icons, news panel, and dark blue background.](docs/images/cheatcodes-desktop.jpg)](https://cheatcodes.robertdevore.com/)
 
@@ -47,9 +47,9 @@ The live site scored **100 in all four PageSpeed Insights categories on both mob
 | Best practices | 100 | 100 |
 | SEO | 100 | 100 |
 
-[Open the measured report](https://pagespeed.web.dev/analysis/https-cheatcodes-robertdevore-com/vog71rnqv7). These scores describe that run; they are not a promise that every future run will return the same result.
+[Open the measured report](https://pagespeed.web.dev/analysis/https-cheatcodes-robertdevore-com/eeypj4sj3p). These scores describe that run; they are not a promise that every future run will return the same result.
 
-The current build inlines only the SiteKit styles it uses, avoids downloaded fonts, and draws its artwork with CSS and inline SVG. The report above measured the earlier sprite-based version; it is retained as historical evidence, not a score for this rebuild. A [dated SEO and AI-search audit](seo-audit/2026-10-18/executive-summary.md) preserves the before-and-after evidence. Search rankings, traffic, and AI citations were not measured, and no gains in those areas are claimed.
+The current build inlines only the SiteKit styles it uses, avoids downloaded fonts, and draws its artwork with CSS and inline SVG. The linked report measures this HTML, CSS, and inline-SVG rebuild. Earlier sprite-based measurements remain in the audit archive as historical evidence. A [dated SEO and AI-search audit](seo-audit/2026-10-18/executive-summary.md) preserves the before-and-after evidence. Search rankings, traffic, and AI citations were not measured, and no gains in those areas are claimed.
 
 ## Run it locally
 
@@ -66,7 +66,7 @@ python3 -m http.server 8080 --directory dist
 
 Open [localhost:8080](http://localhost:8080/). Stop the preview server with `Ctrl+C`.
 
-`npm run build` runs the Kujo generator, then prepares the output for GitHub Pages. `npm run check` checks the site's JavaScript syntax.
+`npm run build` runs the Kujo generator, then prepares the output for GitHub Pages. `npm run check` checks JavaScript syntax and rejects raster assets or reference-image slices in the generated page.
 
 ## Find your way around
 
