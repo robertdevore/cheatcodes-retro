@@ -1,0 +1,10 @@
+# CheatCodes.com
+
+This site contains structured content formatted for LLM-friendly consumption.
+
+## Posts
+
+## Pages
+
+## Sitemap
+https://cheatcodes-retro-2001.robertdevore.chatgpt.site/sitemap.xml

@@ -1,0 +1,9 @@
+site_url: https://cheatcodes-retro-2001.robertdevore.chatgpt.site
+site_title: CheatCodes.com
+site_tagline: The classic 2001 homepage
+output: dist
+content: content
+templates: templates
+assets: assets
+webmcp: false
+minify: false
