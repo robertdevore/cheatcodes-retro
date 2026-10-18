@@ -9,3 +9,4 @@ fs.writeFileSync('dist/404.html','<!doctype html><html lang="en"><meta charset="
 console.log('Finalized GitHub Pages artifact; inline CSS bytes:',Buffer.byteLength(css));
 
 fs.writeFileSync('dist/llms.txt','# CheatCodes.com 2001 recreation\n\n> An independent historical design recreation by Robert DeVore, built with Kujo SSG and SiteKit. Not the original service. Promotions and accounts are demonstrations.\n\n## Pages\n- [Homepage](https://cheatcodes.robertdevore.com/): Interactive 2001 website design recreation.\n- [Source](https://github.com/robertdevore/cheatcodes-retro): Implementation and build instructions.\n');
+fs.copyFileSync('assets/sitekit/LICENSE','dist/LICENSE-SITEKIT.txt');
