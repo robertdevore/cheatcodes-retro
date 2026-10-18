@@ -27,8 +27,8 @@ Want to build something of your own? Start with [Kujo SSG](https://github.com/ku
 
 ## What the demo includes
 
-- The original desktop composition, including its metallic frame, navigation, ads, and console artwork.
-- Live HTML news copy and labeled controls. The supplied reference image provides the decorative artwork through CSS sprites.
+- The 2001 desktop composition, with its metallic frame and navigation rebuilt in CSS and its illustrations redrawn as inline SVG.
+- Live HTML text and labeled controls. CSS gradients, borders, and shadows draw the chrome; editable SVG paths draw the sunset, pier, consoles, and ad illustrations. The page does not load the reference screenshot, raster image slices, or pre-made artwork.
 - A mobile layout that reflows text and controls instead of shrinking the desktop page to unreadable sizes.
 - Wide, responsive dialogs with chrome-styled close buttons, visible keyboard focus, Escape dismissal, and focus return.
 - Matching form controls and scrollbars.
@@ -49,7 +49,7 @@ The live site scored **100 in all four PageSpeed Insights categories on both mob
 
 [Open the measured report](https://pagespeed.web.dev/analysis/https-cheatcodes-robertdevore-com/vog71rnqv7). These scores describe that run; they are not a promise that every future run will return the same result.
 
-The build keeps the page light by inlining only the SiteKit styles it uses, avoiding downloaded fonts, and preloading the WebP artwork. A [dated SEO and AI-search audit](seo-audit/2026-10-18/executive-summary.md) preserves the before-and-after evidence. Search rankings, traffic, and AI citations were not measured, and no gains in those areas are claimed.
+The current build inlines only the SiteKit styles it uses, avoids downloaded fonts, and draws its artwork with CSS and inline SVG. The report above measured the earlier sprite-based version; it is retained as historical evidence, not a score for this rebuild. A [dated SEO and AI-search audit](seo-audit/2026-10-18/executive-summary.md) preserves the before-and-after evidence. Search rankings, traffic, and AI citations were not measured, and no gains in those areas are claimed.
 
 ## Run it locally
 

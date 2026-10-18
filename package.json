@@ -9,7 +9,7 @@
   "scripts": {
     "build": "kujo run build.kujo -- --no-webmcp && node scripts/finalize.mjs",
     "howl": "howl validate && howl render --out showcase",
-    "check": "node --check assets/app.js"
+    "check": "node --check assets/app.js && node scripts/verify-code-art.mjs"
   },
   "keywords": [],
   "author": "",
