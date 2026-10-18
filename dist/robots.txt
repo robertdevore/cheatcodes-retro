@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://cheatcodes-retro-2001.robertdevore.chatgpt.site/sitemap.xml
+Sitemap: https://cheatcodes.robertdevore.com/sitemap.xml

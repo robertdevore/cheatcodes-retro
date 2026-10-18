@@ -1,10 +1,7 @@
-# CheatCodes.com
+# CheatCodes.com 2001 recreation
 
-This site contains structured content formatted for LLM-friendly consumption.
-
-## Posts
+> An independent historical design recreation by Robert DeVore, built with Kujo SSG and SiteKit. Not the original service. Promotions and accounts are demonstrations.
 
 ## Pages
-
-## Sitemap
-https://cheatcodes-retro-2001.robertdevore.chatgpt.site/sitemap.xml
+- [Homepage](https://cheatcodes.robertdevore.com/): Interactive 2001 website design recreation.
+- [Source](https://github.com/robertdevore/cheatcodes-retro): Implementation and build instructions.

@@ -1,0 +1,27 @@
+{
+  "name": "cheatcodes",
+  "version": "1.0.0",
+  "description": "Build: `kujo run build.kujo -- --no-webmcp`",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "build": "kujo run build.kujo -- --no-webmcp && node scripts/finalize.mjs",
+    "howl": "howl validate && howl render --out showcase",
+    "check": "node --check assets/app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "clean-css": "^5.3.3",
+    "lighthouse": "^13.5.0",
+    "purgecss": "^7.0.2"
+  },
+  "private": true,
+  "overrides": {
+    "postcss-selector-parser": "^7.1.6"
+  }
+}

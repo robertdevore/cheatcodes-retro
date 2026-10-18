@@ -1,0 +1,28 @@
+{
+  "project": {
+    "name": "CheatCodes 2001 Recreation",
+    "tagline": "Classic gaming web design, rebuilt with Kujo",
+    "url": "https://cheatcodes.robertdevore.com/"
+  },
+  "theme": {
+    "name": "minimal",
+    "mode": "dark"
+  },
+  "cards": [
+    {
+      "id": "cheatcodes-2001",
+      "title": "A classic gaming homepage, recreated",
+      "file": "examples/recreation.kujo",
+      "variant": "social",
+      "language": "kujo",
+      "concepts": [
+        "Kujo SSG",
+        "SiteKit",
+        "Static HTML"
+      ],
+      "caption": "Explore a recreation of the 2001 CheatCodes.com homepage, built with Kujo SSG and SiteKit.",
+      "url": "https://cheatcodes.robertdevore.com/",
+      "notes": "Historical promotions and accounts are demonstrations, not active services."
+    }
+  ]
+}
