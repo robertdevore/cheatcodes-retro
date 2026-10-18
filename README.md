@@ -4,7 +4,7 @@ A demo recreation of the CheatCodes.com homepage from 2001, built with [Kujo SSG
 
 Chrome buttons. Console logos. A sunset over the pier. This project brings a piece of early gaming web design back to the browser, with readable mobile layouts, keyboard-friendly dialogs, and a fast static build.
 
-**[Visit the live demo](https://cheatcodes.robertdevore.com/) · [Explore Kujo](https://github.com/kujolang) · [View the PageSpeed report](https://pagespeed.web.dev/analysis/https-cheatcodes-robertdevore-com/eeypj4sj3p)**
+**[Visit the live demo](https://cheatcodes.robertdevore.com/) · [Explore Kujo](https://github.com/kujolang) · [View the PageSpeed report](https://pagespeed.web.dev/analysis/https-cheatcodes-robertdevore-com/2up2ov2yca)**
 
 [![The recreated CheatCodes.com homepage, with its metallic navigation, console icons, news panel, and dark blue background.](docs/images/cheatcodes-desktop.jpg)](https://cheatcodes.robertdevore.com/)
 
@@ -28,7 +28,7 @@ Want to build something of your own? Start with [Kujo SSG](https://github.com/ku
 ## What the demo includes
 
 - The 2001 desktop composition, with its metallic frame and navigation rebuilt in CSS and its illustrations redrawn as inline SVG.
-- Live HTML text and labeled controls. CSS gradients, borders, and shadows draw the chrome; editable SVG paths draw the sunset, pier, consoles, and ad illustrations. The page does not load the reference screenshot, raster image slices, or pre-made artwork.
+- Live HTML text and labeled controls. CSS gradients, borders, and shadows draw the chrome; editable SVG paths draw the sunset, pier, consoles, and ad illustrations. The page does not load the reference screenshot, raster image slices, or screenshot sprites. Historical platform marks use sourced SVG paths; see the [asset sources and font licenses](docs/brand-sources/README.md), including the remaining GameShark approximation.
 - A mobile layout that reflows text and controls instead of shrinking the desktop page to unreadable sizes.
 - Wide, responsive dialogs with chrome-styled close buttons, visible keyboard focus, Escape dismissal, and focus return.
 - Matching form controls and scrollbars.
@@ -47,9 +47,9 @@ The live site scored **100 in all four PageSpeed Insights categories on both mob
 | Best practices | 100 | 100 |
 | SEO | 100 | 100 |
 
-[Open the measured report](https://pagespeed.web.dev/analysis/https-cheatcodes-robertdevore-com/eeypj4sj3p). These scores describe that run; they are not a promise that every future run will return the same result.
+[Open the measured report](https://pagespeed.web.dev/analysis/https-cheatcodes-robertdevore-com/2up2ov2yca). These scores describe that run; they are not a promise that every future run will return the same result.
 
-The current build inlines only the SiteKit styles it uses, avoids downloaded fonts, and draws its artwork with CSS and inline SVG. The linked report measures this HTML, CSS, and inline-SVG rebuild. Earlier sprite-based measurements remain in the audit archive as historical evidence. A [dated SEO and AI-search audit](seo-audit/2026-10-18/executive-summary.md) preserves the before-and-after evidence. Search rankings, traffic, and AI citations were not measured, and no gains in those areas are claimed.
+The current build inlines only the SiteKit styles it uses, self-hosts compact Google Fonts subsets, and draws its artwork with CSS and inline SVG. The linked report measures the sourced-logo and Google Fonts refinement published on October 18, 2026. Earlier sprite-based measurements remain in the audit archive as historical evidence. A [dated SEO and AI-search audit](seo-audit/2026-10-18/executive-summary.md) preserves the before-and-after evidence. Search rankings, traffic, and AI citations were not measured, and no gains in those areas are claimed.
 
 ## Run it locally
 

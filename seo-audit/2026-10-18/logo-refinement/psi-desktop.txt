@@ -1,0 +1,263 @@
+Browser tab: 5, Title: "PageSpeed Insights", URL: "https://pagespeed.web.dev/analysis/https-cheatcodes-robertdevore-com/2up2ov2yca?form_factor=desktop".
+0 AXWebArea PageSpeed Insights, URL: pagespeed.web.dev/analysis/https-cheatcodes-robertdevore-com/2up2ov2yca?form_factor=desktop
+	1 container yDmH0d
+		2 container kO001e
+			3 link Description: PageSpeed Insights logo PageSpeed Insights, Value: pagespeed.web.dev/
+			4 button Copy Link
+				5 image
+				6 text Copy Link
+			7 container
+				8 link Description: Docs, Value: developers.google.com/speed/docs/insights/v5/about
+		9 container
+			10 container
+				11 text This site uses cookies from Google to deliver its services and to analyze traffic.
+				12 container
+					13 link Description: Learn More., Value: policies.google.com/technologies/cookies
+				14 button Ok, Got it.
+					15 text Ok, Got it.
+				42 text Report from  Oct 18, 2026, 3:24:02 PM
+				43 text field (settable) Value: https://cheatcodes.robertdevore.com/, ID: c7
+				44 button Analyze
+					45 text Analyze
+				46 tab group
+					47 tab (selectable, settable, boolean) Mobile, Value: 0, ID: mobile_tab
+					48 tab (selected, settable, boolean) Desktop, Value: 1, ID: desktop_tab
+						49 text Desktop
+				50 container Desktop
+					51 text Discover what your real users are experiencing
+					52 button button
+					53 text No Data
+					54 text Diagnose performance issues
+					55 container
+						56 container
+							57 link Description: 100 Performance, Value: pagespeed.web.dev/#performance
+							58 link Description: 100 Accessibility, Value: pagespeed.web.dev/#accessibility
+							59 link Description: 100 Best Practices, Value: pagespeed.web.dev/#best-practices
+							60 link Description: 100 SEO, Value: pagespeed.web.dev/#seo
+							61 link Description: 3/3 Agentic Browsing, Value: pagespeed.web.dev/#agentic-browsing
+						62 container performance
+							63 image
+								64 text 100
+								65 text FCP
+								66 text +10
+								67 text LCP
+								68 text +25
+								69 text TBT
+								70 text +30
+								71 text CLS
+								72 text +25
+								73 text SI
+								74 text +10
+								75 text Performance
+							76 container
+								77 text Values are estimated and may vary. The 
+								78 link Description: performance score is calculated, Value: developer.chrome.com/docs/lighthouse/performance/performance-scoring/?utm_source=lighthouse&utm_medium=lr
+								79 text  directly from these metrics.
+								80 link Description: See calculator., Value: googlechrome.github.io/lighthouse/scorecalc/#FCP=282&LCP=296&TBT=0&CLS=0&SI=288&TTI=296&device=desktop&version=13.5.0
+							81 text 0–49 50–89 90–100
+							82 image Final Screenshot
+							83 container
+								84 checkbox (settable, integer) Description: Toggle the display of metric descriptions, Value: 0, ID: lh-metrics-toggle4
+								85 text METRICS Expand view
+								86 container first-contentful-paint
+									87 text First Contentful Paint
+									88 text 0.3 s
+								89 container largest-contentful-paint
+									90 text Largest Contentful Paint
+									91 text 0.3 s
+								92 container total-blocking-time
+									93 text Total Blocking Time
+									94 text 0 ms
+								95 container cumulative-layout-shift
+									96 text Cumulative Layout Shift
+									97 text 0
+								98 container speed-index
+									99 text Speed Index
+									100 text 0.3 s
+								101 content list
+									102 text Captured at Oct 18, 2026, 3:24 PM EDT
+									103 text Emulated Desktop with Lighthouse 13.5.0
+									104 text Single page session
+									105 text Initial page load
+									106 text Custom throttling
+									107 text Using HeadlessChromium 153.0.8010.36 with lr
+								108 button View Treemap
+							109 container screenshot-thumbnails
+								110 image Screenshot
+								111 image Screenshot
+								112 image Screenshot
+								113 image Screenshot
+								114 image Screenshot
+								115 image Screenshot
+								116 image Screenshot
+								117 image Screenshot
+							118 text Show audits relevant to:
+							119 radio button (settable, integer) Description: All, Value: 1, ID: metric-All-7
+							120 radio button (settable, integer) Description: FCP, Value: 0, ID: metric-FCP-7
+							121 container First Contentful Paint
+								122 text FCP
+							123 radio button (settable, integer) Description: LCP, Value: 0, ID: metric-LCP-7
+							124 container Largest Contentful Paint
+								125 text LCP
+							126 container
+								127 text INSIGHTS
+								128 button (collapsed) Forced reflow, Secondary Actions: Expand
+									129 text Forced reflow
+								130 button (collapsed) Use efficient cache lifetimes —Est savings of 25 KiB, Secondary Actions: Expand
+									131 text Use efficient cache lifetimes
+									132 text —
+									133 text Est savings of 25 KiB
+								134 button (collapsed) LCP breakdown, Secondary Actions: Expand
+									135 text LCP breakdown
+								136 text These insights are also available in the Chrome DevTools Performance Panel - 
+								137 link Description: record a trace, Value: developer.chrome.com/docs/devtools/performance/reference?utm_source=lighthouse&utm_medium=lr
+								138 text  to view more detailed information.
+							139 button (collapsed) PASSED AUDITS (24) Show, Secondary Actions: Expand
+								140 container
+									141 text PASSED AUDITS (24)
+								142 text Show
+						143 container accessibility
+							144 heading 100 Accessibility, Value: 2
+								145 container
+									146 image
+									147 text 100 Accessibility
+							148 container
+								149 text These checks highlight opportunities to 
+								150 link Description: improve the accessibility of your web app, Value: developer.chrome.com/docs/lighthouse/accessibility/?utm_source=lighthouse&utm_medium=lr
+								151 text . Automatic detection can only detect a subset of issues and does not guarantee the accessibility of your web app, so 
+								152 link Description: manual testing, Value: web.dev/articles/how-to-review?utm_source=lighthouse&utm_medium=lr
+								153 text  is also encouraged.
+							154 container
+								155 button (expanded) ADDITIONAL ITEMS TO MANUALLY CHECK (10) Hide, Secondary Actions: Collapse
+									156 container
+										157 text ADDITIONAL ITEMS TO MANUALLY CHECK (10)
+									158 text Hide
+								159 button (collapsed) Interactive controls are keyboard focusable, Secondary Actions: Expand
+									160 text Interactive controls are keyboard focusable
+								161 button (collapsed) Interactive elements indicate their purpose and state, Secondary Actions: Expand
+									162 text Interactive elements indicate their purpose and state
+								163 button (collapsed) The page has a logical tab order, Secondary Actions: Expand
+									164 text The page has a logical tab order
+								165 button (collapsed) Visual order on the page follows DOM order, Secondary Actions: Expand
+									166 text Visual order on the page follows DOM order
+								167 button (collapsed) User focus is not accidentally trapped in a region, Secondary Actions: Expand
+									168 text User focus is not accidentally trapped in a region
+								169 button (collapsed) The user's focus is directed to new content added to the page, Secondary Actions: Expand
+									170 text The user's focus is directed to new content added to the page
+								171 button (collapsed) HTML5 landmark elements are used to improve navigation, Secondary Actions: Expand
+									172 text HTML5 landmark elements are used to improve navigation
+								173 button (collapsed) Offscreen content is hidden from assistive technology, Secondary Actions: Expand
+									174 text Offscreen content is hidden from assistive technology
+								175 button (collapsed) Custom controls have associated labels, Secondary Actions: Expand
+									176 text Custom controls have associated labels
+								177 button (collapsed) Custom controls have ARIA roles, Secondary Actions: Expand
+									178 text Custom controls have ARIA roles
+								179 text These items address areas which an automated testing tool cannot cover. Learn more in our guide on 
+								180 link Description: conducting an accessibility review, Value: web.dev/articles/how-to-review?utm_source=lighthouse&utm_medium=lr
+								181 text .
+							182 button (collapsed) PASSED AUDITS (24) Show, Secondary Actions: Expand
+								183 container
+									184 text PASSED AUDITS (24)
+								185 text Show
+							186 button (collapsed) NOT APPLICABLE (39) Show, Secondary Actions: Expand
+								187 container
+									188 text NOT APPLICABLE (39)
+								189 text Show
+						190 container best-practices
+							191 heading 100 Best Practices, Value: 2
+								192 container
+									193 image
+									194 text 100 Best Practices
+							195 container
+								196 text TRUST AND SAFETY
+								197 button (collapsed) Ensure CSP is effective against XSS attacks, Secondary Actions: Expand
+									198 text Ensure CSP is effective against XSS attacks
+								199 button (collapsed) Use a strong HSTS policy, Secondary Actions: Expand
+									200 text Use a strong HSTS policy
+								201 button (collapsed) Ensure proper origin isolation with COOP, Secondary Actions: Expand
+									202 text Ensure proper origin isolation with COOP
+								203 button (collapsed) Mitigate clickjacking with XFO or CSP, Secondary Actions: Expand
+									204 text Mitigate clickjacking with XFO or CSP
+								205 button (collapsed) Mitigate DOM-based XSS with Trusted Types, Secondary Actions: Expand
+									206 text Mitigate DOM-based XSS with Trusted Types
+							207 container
+								208 text BROWSER COMPATIBILITY
+								209 button (collapsed) Baseline Features, Secondary Actions: Expand
+									210 text Baseline Features
+							211 button (collapsed) PASSED AUDITS (13) Show, Secondary Actions: Expand
+								212 container
+									213 text PASSED AUDITS (13)
+								214 text Show
+							215 button (collapsed) NOT APPLICABLE (2) Show, Secondary Actions: Expand
+								216 container
+									217 text NOT APPLICABLE (2)
+								218 text Show
+						219 container seo
+							220 heading 100 SEO, Value: 2
+								221 container
+									222 image
+									223 text 100 SEO
+							224 container
+								225 text These checks ensure that your page is following basic search engine optimization advice. There are many additional factors Lighthouse does not score here that may affect your search ranking, including performance on 
+								226 link Description: Core Web Vitals, Value: web.dev/explore/vitals?utm_source=lighthouse&utm_medium=lr
+								227 text . 
+								228 link Description: Learn more about Google Search Essentials, Value: support.google.com/webmasters/answer/35769
+								229 text .
+							230 container
+								231 button (expanded) ADDITIONAL ITEMS TO MANUALLY CHECK (1) Hide, Secondary Actions: Collapse
+									232 container
+										233 text ADDITIONAL ITEMS TO MANUALLY CHECK (1)
+									234 text Hide
+								235 button (collapsed) Structured data is valid, Secondary Actions: Expand
+									236 text Structured data is valid
+								237 text Run these additional validators on your site to check additional SEO best practices.
+							238 button (collapsed) PASSED AUDITS (9) Show, Secondary Actions: Expand
+								239 container
+									240 text PASSED AUDITS (9)
+								241 text Show
+							242 button (collapsed) NOT APPLICABLE (1) Show, Secondary Actions: Expand
+								243 container
+									244 text NOT APPLICABLE (1)
+								245 text Show
+						246 container agentic-browsing
+							247 heading 3/3 Agentic Browsing, Value: 2
+								248 container
+									249 text 3/3 Agentic Browsing
+							250 container
+								251 text These checks ensure high-quality, 
+								252 link Description: browsable websites for AI agents, Value: goo.gle/lighthouse-agentic-web
+								253 text  and validate the correctness of WebMCP integrations. This category is still under development and subject to change.
+							254 button (collapsed) PASSED AUDITS (3) Show, Secondary Actions: Expand
+								255 container
+									256 text PASSED AUDITS (3)
+								257 text Show
+							258 button (collapsed) NOT APPLICABLE (4) Show, Secondary Actions: Expand
+								259 container
+									260 text NOT APPLICABLE (4)
+								261 text Show
+		18 container ZCHFDb
+			19 text More on PageSpeed Insights
+			20 link Description: What's new, Value: developers.google.com/speed/docs/insights/release_notes
+			21 link Description: Documentation, Value: developers.google.com/speed/docs/insights/v5/about
+			22 link Description: Learn about Web Performance, Value: developers.google.com/speed
+			23 link Description: Ask questions on Stack Overflow, Value: stackoverflow.com/questions/tagged/pagespeed-insights
+			24 link Description: Mailing list, Value: groups.google.com/g/pagespeed-insights-discuss
+			25 text Related Content
+			26 link Description: Updates, Value: developer.chrome.com/blog
+			27 link Description: Web Fundamentals, Value: developers.google.com/focus/web-development
+			28 link Description: Case Studies, Value: web.dev/case-studies
+			29 link Description: Podcasts, Value: web.dev/shows
+			30 text Connect
+			31 link Description: Twitter, Value: twitter.com/ChromiumDev
+			32 link Description: Youtube, Value: youtube.com/user/ChromeDevelopers
+			33 link Description: Google Developers Logo, Value: developers.google.com/
+			34 link Description: Chrome, Value: developer.chrome.com/
+			35 link Description: Firebase, Value: firebase.google.com/
+			36 link Description: All products, Value: developers.google.com/products/
+			37 link Description: Terms and Privacy Policy, Value: policies.google.com/
+			38 container
+				39 text For details, see the 
+				40 link Description: Google Developers Site Policies, Value: developers.google.com/terms/site-policies
+				41 text .
+
+The focused UI element is 48 tab (selected, settable, boolean) Desktop, Value: 1, ID: desktop_tab
