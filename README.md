@@ -6,7 +6,7 @@ Chrome buttons. Console logos. A sunset over the pier. This project brings a pie
 
 **[Visit the live demo](https://cheatcodes.robertdevore.com/) · [Explore Kujo](https://github.com/kujolang) · [View the PageSpeed report](https://pagespeed.web.dev/analysis/https-cheatcodes-robertdevore-com/vog71rnqv7)**
 
-[![The recreated CheatCodes.com homepage, with its metallic navigation, console icons, news panel, and dark blue background.](docs/images/cheatcodes-desktop.png)](https://cheatcodes.robertdevore.com/)
+[![The recreated CheatCodes.com homepage, with its metallic navigation, console icons, news panel, and dark blue background.](docs/images/cheatcodes-desktop.jpg)](https://cheatcodes.robertdevore.com/)
 
 *Screenshot of the live demo, captured October 18, 2026.*
 
