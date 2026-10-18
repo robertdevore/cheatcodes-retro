@@ -1,0 +1,6 @@
+url,policy,training_policy,note
+https://cheatcodes.robertdevore.com/robots.txt,"User-agent: *
+Allow: /
+
+Sitemap: https://cheatcodes.robertdevore.com/sitemap.xml
+",unchanged wildcard allow,"llms.txt experimental, not a ranking requirement"

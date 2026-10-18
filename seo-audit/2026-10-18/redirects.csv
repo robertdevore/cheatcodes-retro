@@ -1,0 +1,9 @@
+phase,source_url,source_variant,http_status,target_url,chain_length,final_status,canonical_target,query_preserved,verification,issues
+after,https://cheatcodes.robertdevore.com/,production,200,https://cheatcodes.robertdevore.com/,not enumerated,200,https://cheatcodes.robertdevore.com/,N/A,live urllib probe,
+after,https://cheatcodes.robertdevore.com/?ref=audit,production,200,https://cheatcodes.robertdevore.com/?ref=audit,not enumerated,200,https://cheatcodes.robertdevore.com/,True,live urllib probe,
+after,http://cheatcodes.robertdevore.com/,production,200,https://cheatcodes.robertdevore.com/,not enumerated,200,https://cheatcodes.robertdevore.com/,N/A,live urllib probe,
+after,https://robertdevore.github.io/cheatcodes-retro/,production,200,https://cheatcodes.robertdevore.com/,not enumerated,200,https://cheatcodes.robertdevore.com/,N/A,live urllib probe,
+after,https://cheatcodes.robertdevore.com/missing-audit-route,production,404,https://cheatcodes.robertdevore.com/missing-audit-route,not enumerated,404,https://cheatcodes.robertdevore.com/,N/A,live urllib probe,
+after,https://cheatcodes.robertdevore.com/robots.txt,production,200,https://cheatcodes.robertdevore.com/robots.txt,not enumerated,200,https://cheatcodes.robertdevore.com/,N/A,live urllib probe,
+after,https://cheatcodes.robertdevore.com/sitemap.xml,production,200,https://cheatcodes.robertdevore.com/sitemap.xml,not enumerated,200,https://cheatcodes.robertdevore.com/,N/A,live urllib probe,
+after,https://cheatcodes.robertdevore.com/blog/,production,404,https://cheatcodes.robertdevore.com/blog/,not enumerated,404,https://cheatcodes.robertdevore.com/,N/A,live urllib probe,

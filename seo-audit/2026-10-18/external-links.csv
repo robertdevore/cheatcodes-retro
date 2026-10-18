@@ -1,0 +1,5 @@
+phase,source_url,destination_url,anchor_text,link_context,http_status,final_url,chain_length,verification,rel,recommended_action
+baseline,https://cheatcodes-retro-2001.robertdevore.chatgpt.site/,https://www.amazon.com/video-games/b?node=468642,Shop video games on Amazon,navigation/content/footer,200,https://www.amazon.com/video-games/b?node=468642,0,verified,,none
+after,https://cheatcodes.robertdevore.com/,https://www.amazon.com/video-games/b?node=468642,Shop video games on Amazon,navigation/content/footer,200,https://www.amazon.com/video-games/b?node=468642,0,verified,,none
+after,https://cheatcodes.robertdevore.com/,https://robertdevore.com/,Robert DeVore,navigation/content/footer,200,https://robertdevore.com/,0,verified,,none
+after,https://cheatcodes.robertdevore.com/,https://github.com/robertdevore/cheatcodes-retro,View the source code,navigation/content/footer,200,https://github.com/robertdevore/cheatcodes-retro,0,verified,,none

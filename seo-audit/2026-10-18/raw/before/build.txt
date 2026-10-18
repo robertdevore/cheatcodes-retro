@@ -1,0 +1,10 @@
+╔════════════════════════════════════════════════╗
+║        Kujo Static Site Generator              ║
+╚════════════════════════════════════════════════╝
+
+Loaded configuration from kujo-ssg.yml
+Build complete
+  Posts generated: 0
+  Pages generated: 0
+  Output directory: dist
+  Build time: 3.446975926s

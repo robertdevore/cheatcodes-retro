@@ -1,0 +1,7 @@
+phase,url,indexable,robots_directives,canonical,sitemap_included
+baseline,https://cheatcodes-retro-2001.robertdevore.chatgpt.site/404.html,False,default,,False
+baseline,https://cheatcodes-retro-2001.robertdevore.chatgpt.site/blog/,True,default,,True
+baseline,https://cheatcodes-retro-2001.robertdevore.chatgpt.site/blog.html,True,default,/blog/,False
+baseline,https://cheatcodes-retro-2001.robertdevore.chatgpt.site/,True,default,,True
+after,https://cheatcodes.robertdevore.com/404.html,False,noindex,,False
+after,https://cheatcodes.robertdevore.com/,True,default,https://cheatcodes.robertdevore.com/,True

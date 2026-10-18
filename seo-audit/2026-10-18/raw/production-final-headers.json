@@ -1,0 +1,44 @@
+[
+  {
+    "url": "http://cheatcodes.robertdevore.com/",
+    "exit_code": 0,
+    "headers": "HTTP/1.1 301 Moved Permanently\nConnection: keep-alive\nContent-Length: 162\nServer: GitHub.com\nContent-Type: text/html\nLocation: https://cheatcodes.robertdevore.com/\nX-GitHub-Request-Id: 3790:3DCAEA:231016:26CA21:6AD515C2\nx-github-edge-region: iad\nAccept-Ranges: bytes\nAge: 0\nDate: Sun, 18 Oct 2026 18:53:54 GMT\nVia: 1.1 varnish\nX-Served-By: cache-cmh1290069-CMH\nX-Cache: MISS\nX-Cache-Hits: 0\nX-Timer: S1792349634.282910,VS0,VE46\nVary: Accept-Encoding\nX-Fastly-Request-ID: 11741873e8198664e4ac9e1231d69595d844dbc4\n\n",
+    "error": ""
+  },
+  {
+    "url": "https://cheatcodes.robertdevore.com/",
+    "exit_code": 0,
+    "headers": "HTTP/2 200 \nserver: GitHub.com\ncontent-type: text/html; charset=utf-8\nlast-modified: Sun, 18 Oct 2026 18:53:14 GMT\naccess-control-allow-origin: *\netag: \"6ad5159a-6c78\"\nexpires: Sun, 18 Oct 2026 19:03:54 GMT\ncache-control: max-age=600\nx-proxy-cache: MISS\nx-github-request-id: ECA4:25EEEF:23DC9B:2791D4:6AD515C2\nx-github-edge-region: iad\naccept-ranges: bytes\nage: 0\ndate: Sun, 18 Oct 2026 18:53:54 GMT\nvia: 1.1 varnish\nx-served-by: cache-cmh1290079-CMH\nx-cache: MISS\nx-cache-hits: 0\nx-timer: S1792349635.523595,VS0,VE48\nvary: Accept-Encoding\nx-fastly-request-id: 77a4d96a7f067e3f96a8d759b0817761783d6e4a\ncontent-length: 27768\n\n",
+    "error": ""
+  },
+  {
+    "url": "https://cheatcodes.robertdevore.com/?ref=audit",
+    "exit_code": 0,
+    "headers": "HTTP/2 200 \nserver: GitHub.com\ncontent-type: text/html; charset=utf-8\nlast-modified: Sun, 18 Oct 2026 18:53:14 GMT\naccess-control-allow-origin: *\netag: \"6ad5159a-6c78\"\nexpires: Sun, 18 Oct 2026 19:03:54 GMT\ncache-control: max-age=600\nx-proxy-cache: MISS\nx-github-request-id: ECA4:25EEEF:23DC9B:2791D4:6AD515C2\nx-github-edge-region: iad\naccept-ranges: bytes\ndate: Sun, 18 Oct 2026 18:53:54 GMT\nvia: 1.1 varnish\nage: 0\nx-served-by: cache-cmh1290034-CMH\nx-cache: HIT\nx-cache-hits: 1\nx-timer: S1792349635.783667,VS0,VE2\nvary: Accept-Encoding\nx-fastly-request-id: 35a9da6f288a4ce90c19585c47864ee87ac3ccb4\ncontent-length: 27768\n\n",
+    "error": ""
+  },
+  {
+    "url": "https://cheatcodes.robertdevore.com/robots.txt",
+    "exit_code": 0,
+    "headers": "HTTP/2 200 \nserver: GitHub.com\ncontent-type: text/plain; charset=utf-8\nlast-modified: Sun, 18 Oct 2026 18:53:14 GMT\naccess-control-allow-origin: *\netag: \"6ad5159a-51\"\nexpires: Sun, 18 Oct 2026 19:03:55 GMT\ncache-control: max-age=600\nx-proxy-cache: MISS\nx-github-request-id: 4F70:39D5C0:25CE05:299C0B:6AD515C2\nx-github-edge-region: iad\naccept-ranges: bytes\nage: 0\ndate: Sun, 18 Oct 2026 18:53:55 GMT\nvia: 1.1 varnish\nx-served-by: cache-cmh1290045-CMH\nx-cache: MISS\nx-cache-hits: 0\nx-timer: S1792349635.019929,VS0,VE47\nvary: Accept-Encoding\nx-fastly-request-id: 85105fe9a81a6deb2c1e74e456cf6244746f0c64\ncontent-length: 81\n\n",
+    "error": ""
+  },
+  {
+    "url": "https://cheatcodes.robertdevore.com/sitemap.xml",
+    "exit_code": 0,
+    "headers": "HTTP/2 200 \nserver: GitHub.com\ncontent-type: application/xml\nlast-modified: Sun, 18 Oct 2026 18:53:14 GMT\naccess-control-allow-origin: *\netag: \"6ad5159a-a5\"\nexpires: Sun, 18 Oct 2026 19:03:55 GMT\ncache-control: max-age=600\nx-proxy-cache: MISS\nx-github-request-id: 0ED0:1EB6B3:1FC803:237993:6AD515C3\nx-github-edge-region: iad\naccept-ranges: bytes\nage: 0\ndate: Sun, 18 Oct 2026 18:53:55 GMT\nvia: 1.1 varnish\nx-served-by: cache-cmh1290105-CMH\nx-cache: MISS\nx-cache-hits: 0\nx-timer: S1792349635.320167,VS0,VE53\nvary: Accept-Encoding\nx-fastly-request-id: 5423a5906bc1dfe43dab4b273760a3fb138edd84\ncontent-length: 165\n\n",
+    "error": ""
+  },
+  {
+    "url": "https://cheatcodes.robertdevore.com/missing-audit-route",
+    "exit_code": 0,
+    "headers": "HTTP/2 404 \nserver: GitHub.com\ncontent-type: text/html; charset=utf-8\nx-origin-cache: HIT\naccess-control-allow-origin: *\netag: \"6ad5159a-172\"\nx-proxy-cache: MISS\nx-github-request-id: EE70:21F0B1:23A2C2:277102:6AD515C2\nx-github-edge-region: iad\naccept-ranges: bytes\nage: 0\ndate: Sun, 18 Oct 2026 18:53:55 GMT\nvia: 1.1 varnish\nx-served-by: cache-cmh1290104-CMH\nx-cache: MISS\nx-cache-hits: 0\nx-timer: S1792349636.541175,VS0,VE62\nvary: Accept-Encoding\nx-fastly-request-id: 1762e7c02e17a98336963206409147c8ddfc0d22\ncontent-length: 370\n\n",
+    "error": ""
+  },
+  {
+    "url": "https://robertdevore.github.io/cheatcodes-retro/",
+    "exit_code": 0,
+    "headers": "HTTP/2 301 \nserver: GitHub.com\ncontent-type: text/html\nlocation: http://cheatcodes.robertdevore.com/\nx-github-request-id: EFBA:29052A:4A9411:5D6025:6AD51474\nx-github-edge-region: iad\naccept-ranges: bytes\nage: 335\ndate: Sun, 18 Oct 2026 18:53:55 GMT\nvia: 1.1 varnish\nx-served-by: cache-cmh1290123-CMH\nx-cache: HIT\nx-cache-hits: 0\nx-timer: S1792349636.824388,VS0,VE2\nvary: Accept-Encoding\nx-fastly-request-id: 5fcbba8a63af353f8a1d456d92d3e1eaed29f961\ncontent-length: 162\n\n",
+    "error": ""
+  }
+]

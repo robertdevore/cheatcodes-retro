@@ -1,0 +1,16 @@
+user_agent,url,status,final_url,limitation
+Googlebot,https://cheatcodes.robertdevore.com/,200,https://cheatcodes.robertdevore.com/,User-agent probe only; not verified provider IP. Robots wildcard policy preserved.
+Googlebot,https://cheatcodes.robertdevore.com/robots.txt,200,https://cheatcodes.robertdevore.com/robots.txt,User-agent probe only; not verified provider IP. Robots wildcard policy preserved.
+Googlebot,https://cheatcodes.robertdevore.com/sitemap.xml,200,https://cheatcodes.robertdevore.com/sitemap.xml,User-agent probe only; not verified provider IP. Robots wildcard policy preserved.
+bingbot,https://cheatcodes.robertdevore.com/,200,https://cheatcodes.robertdevore.com/,User-agent probe only; not verified provider IP. Robots wildcard policy preserved.
+bingbot,https://cheatcodes.robertdevore.com/robots.txt,200,https://cheatcodes.robertdevore.com/robots.txt,User-agent probe only; not verified provider IP. Robots wildcard policy preserved.
+bingbot,https://cheatcodes.robertdevore.com/sitemap.xml,200,https://cheatcodes.robertdevore.com/sitemap.xml,User-agent probe only; not verified provider IP. Robots wildcard policy preserved.
+OAI-SearchBot,https://cheatcodes.robertdevore.com/,200,https://cheatcodes.robertdevore.com/,User-agent probe only; not verified provider IP. Robots wildcard policy preserved.
+OAI-SearchBot,https://cheatcodes.robertdevore.com/robots.txt,200,https://cheatcodes.robertdevore.com/robots.txt,User-agent probe only; not verified provider IP. Robots wildcard policy preserved.
+OAI-SearchBot,https://cheatcodes.robertdevore.com/sitemap.xml,200,https://cheatcodes.robertdevore.com/sitemap.xml,User-agent probe only; not verified provider IP. Robots wildcard policy preserved.
+ChatGPT-User,https://cheatcodes.robertdevore.com/,200,https://cheatcodes.robertdevore.com/,User-agent probe only; not verified provider IP. Robots wildcard policy preserved.
+ChatGPT-User,https://cheatcodes.robertdevore.com/robots.txt,200,https://cheatcodes.robertdevore.com/robots.txt,User-agent probe only; not verified provider IP. Robots wildcard policy preserved.
+ChatGPT-User,https://cheatcodes.robertdevore.com/sitemap.xml,200,https://cheatcodes.robertdevore.com/sitemap.xml,User-agent probe only; not verified provider IP. Robots wildcard policy preserved.
+GPTBot,https://cheatcodes.robertdevore.com/,200,https://cheatcodes.robertdevore.com/,User-agent probe only; not verified provider IP. Robots wildcard policy preserved.
+GPTBot,https://cheatcodes.robertdevore.com/robots.txt,200,https://cheatcodes.robertdevore.com/robots.txt,User-agent probe only; not verified provider IP. Robots wildcard policy preserved.
+GPTBot,https://cheatcodes.robertdevore.com/sitemap.xml,200,https://cheatcodes.robertdevore.com/sitemap.xml,User-agent probe only; not verified provider IP. Robots wildcard policy preserved.

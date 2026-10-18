@@ -1,0 +1,7 @@
+phase,url,page_type,word_count,h1,author,issues
+baseline,https://cheatcodes-retro-2001.robertdevore.chatgpt.site/404.html,generated utility,14,Page Not Found,,
+baseline,https://cheatcodes-retro-2001.robertdevore.chatgpt.site/blog/,generated utility,4,Blog,,missing canonical
+baseline,https://cheatcodes-retro-2001.robertdevore.chatgpt.site/blog.html,generated utility,3,,,
+baseline,https://cheatcodes-retro-2001.robertdevore.chatgpt.site/,homepage,253,CheatCodes.com,,missing canonical
+after,https://cheatcodes.robertdevore.com/404.html,generated utility,11,Page not found,,
+after,https://cheatcodes.robertdevore.com/,homepage,286,CheatCodes.com,Robert DeVore,

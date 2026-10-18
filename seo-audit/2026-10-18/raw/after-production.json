@@ -1,0 +1,32 @@
+[
+  200,
+  "https://cheatcodes.robertdevore.com/",
+  {
+    "Date": "Sun, 18 Oct 2026 18:52:18 GMT",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "close",
+    "Server": "cloudflare",
+    "last-modified": "Sun, 18 Oct 2026 18:51:45 GMT",
+    "access-control-allow-origin": "*",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "expires": "Sun, 18 Oct 2026 19:02:00 GMT",
+    "Cache-Control": "max-age=600",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=Z%2B8yAKEOChJoJg650DtJicF9pQJ2otmg7JQDF%2FvwjT6huASj6uI4S5trtIZ0isQiAF50jZ5XHwvSQ%2B8f7xzFRcYF13UV1cUuwRjlCA2EzLhQ3Gn23KLLxqN2cyJSJ8NIszTLQ4QJQLN0yjfL4ic%3D\"}]}",
+    "x-proxy-cache": "MISS",
+    "x-github-request-id": "1FE0:237342:2D9B58F:37DA57D:6AD5154F",
+    "x-github-edge-region": "iad",
+    "Server-Timing": "cfCacheStatus;desc=\"DYNAMIC\"",
+    "via": "1.1 varnish",
+    "Age": "18",
+    "x-served-by": "cache-chi-klot8100061-CHI",
+    "x-cache": "HIT",
+    "x-cache-hits": "1",
+    "x-timer": "S1792349539.610754,VS0,VE2",
+    "vary": "Accept-Encoding",
+    "x-fastly-request-id": "396293de9cf6e85dd517c312d9f20c04867737ec",
+    "cf-cache-status": "DYNAMIC",
+    "CF-RAY": "a4c9bd480b1990b3-ORD",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  }
+]

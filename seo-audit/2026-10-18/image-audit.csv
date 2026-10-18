@@ -1,0 +1,3 @@
+phase,asset,bytes,use,dimensions,loading
+baseline,reference.jpeg,150732,CSS sprite decorative chrome; semantic labels for console controls,830x790 intrinsic sprite coordinates,CSS discovery
+after,reference.webp,128792,CSS sprite decorative chrome; semantic labels for console controls,830x790 intrinsic sprite coordinates,preload high priority

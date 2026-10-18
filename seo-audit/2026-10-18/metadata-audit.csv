@@ -1,0 +1,7 @@
+phase,url,title,meta_description,h1,canonical,lang
+baseline,https://cheatcodes-retro-2001.robertdevore.chatgpt.site/404.html,CheatCodes.com — 2001,"A faithful interactive recreation of the classic 2001 CheatCodes.com homepage, built with Kujo SSG and SiteKit.",Page Not Found,,en
+baseline,https://cheatcodes-retro-2001.robertdevore.chatgpt.site/blog/,CheatCodes.com — 2001,"A faithful interactive recreation of the classic 2001 CheatCodes.com homepage, built with Kujo SSG and SiteKit.",Blog,,en
+baseline,https://cheatcodes-retro-2001.robertdevore.chatgpt.site/blog.html,,,,/blog/,en
+baseline,https://cheatcodes-retro-2001.robertdevore.chatgpt.site/,CheatCodes.com — 2001,"A faithful interactive recreation of the classic 2001 CheatCodes.com homepage, built with Kujo SSG and SiteKit.",CheatCodes.com,,en
+after,https://cheatcodes.robertdevore.com/404.html,Page not found,,Page not found,,en
+after,https://cheatcodes.robertdevore.com/,CheatCodes.com — 2001,"A faithful interactive recreation of the classic 2001 CheatCodes.com homepage, built with Kujo SSG and SiteKit.",CheatCodes.com,https://cheatcodes.robertdevore.com/,en

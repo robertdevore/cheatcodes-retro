@@ -1,0 +1,7 @@
+phase,url,schema_types
+baseline,https://cheatcodes-retro-2001.robertdevore.chatgpt.site/404.html,
+baseline,https://cheatcodes-retro-2001.robertdevore.chatgpt.site/blog/,
+baseline,https://cheatcodes-retro-2001.robertdevore.chatgpt.site/blog.html,
+baseline,https://cheatcodes-retro-2001.robertdevore.chatgpt.site/,
+after,https://cheatcodes.robertdevore.com/404.html,
+after,https://cheatcodes.robertdevore.com/,WebPage
